@@ -1,4 +1,8 @@
-# Add Analysis ToolPak to Excel
+# Pragmatic Statistics 101
+
+This is set of step-by-step instructions supporting my blog post.
+
+## Add Analysis ToolPak to Excel
 
 The steps may differ depends on the version of Excel
 
