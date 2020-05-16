@@ -1,4 +1,4 @@
-# Pragmatic Statistics 101
+# Pragmatic Statistics 101 - materials
 
 This is set of step-by-step instructions supporting my blog post.
 
